@@ -13,11 +13,10 @@ Evaluation on **60 held-out validation cases** (split by patient, seed 0), Dice 
 | Median Dice | 0.550 |
 | Min / Max | 0.319 / 0.778 |
 
-Per-case values are in `final_results.json`.
 
-![Training curves](images/curves.png)
+![Training curves](curves.png)
 
-![Predictions](images/predictions.png)
+![Predictions](predictions.png)
 
 *Red: ground truth. Blue: prediction.*
 
